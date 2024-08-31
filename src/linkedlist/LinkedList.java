@@ -8,6 +8,7 @@ public class LinkedList {
 	private int length;
 
 	class Node {
+		// class variables
 		int value;
 		Node next; // Variable of type Node, serves as a pointer to a node.  `variable to access the Node type`
 		
