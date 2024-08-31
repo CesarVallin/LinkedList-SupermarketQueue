@@ -9,7 +9,7 @@ public class LinkedList {
 
 	class Node {
 		int value;
-		Node next; // Variable of type Node, serves as a pointer to a node
+		Node next; // Variable of type Node, serves as a pointer to a node.  `variable to access the Node type`
 		
 		// Constructor
 		public Node(int value) {
